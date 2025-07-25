@@ -1,8 +1,0 @@
-Contains input data, analysis data, and intermediate data.
-
-Key:
-InputData/: The data files you initially obtain or construct at the beginning of your project.
-
-AnalysisData/: Cleaned data.
-
-IntermediateData/: Files created at some point in the processing of your data that need to be saved temporarily so that they can be used at some later point in the processing.
