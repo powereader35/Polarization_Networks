@@ -1,0 +1,7 @@
+Website access: https://ieee-dataport.org/open-access/usa-nov2020-election-20-mil-tweets-sentiment-and-party-name-labels-dataset
+
+File name: uselection_tweets_1jul_11nov.zip
+
+Size: 766.26 MB
+
+Documentation: https://ieee-dataport.s3.amazonaws.com/docs/24891/USElection%20Data%20Set%20Explanation_2.pdf?versionId=3KXMPQUVzd_PFUCcsXzq6Ei0pfgDPt4L&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJOHYI4KJCE6Q7MIQ/20250725/us-east-1/s3/aws4_request&X-Amz-Date=20250725T135309Z&X-Amz-SignedHeaders=host&X-Amz-Expires=600&X-Amz-Signature=631b5e56f2a1c43ffc3b8828acdf74d43ec9697f8631a40345be01bb3dc1d97d
